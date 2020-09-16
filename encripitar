@@ -1,10 +1,9 @@
-import  java.util.ArrayList ;
-import  java.util.List ;
+
 
 public class cript {
 public static String criptar(int chave, String texto){
     // Variavel que ira guardar o texto crifrado
-    String textoCifrado = "Luan é lindo";
+    String textoCifrado = ""
     // Variavel com tamanho do texto a ser encriptado
     int tamanhoTexto = texto.length();
     int letraCifradaASCII;
